@@ -1,12 +1,11 @@
 EVERPEAK ENTERPRISE SALES PERFORMANCE ANALYSIS REPORT FOR THE YEAR 2019 concisely evaluates sales performance across regions, product categories, and customer segments. It offers key insights into revenue trends, top-performing customers, and sales team contributions, supporting informed business decisions and strategic planning.
+![Everpeak dashboard by Rawjenny](https://github.com/user-attachments/assets/eab8cb13-8fc3-48b8-a724-35d5345f489f)
 
 Below are my key insights/observations  and recommendations:
 
  
 
-OBSERVATIONS![Screenshot (51)](https://github.com/user-attachments/assets/c25c59b6-d380-4c57-ad27-ae9a6e36d697)
-
-
+OBSERVATIONS
 The following was Observed;
 
  
